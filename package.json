@@ -11,5 +11,8 @@
     "url": "(https://github.com/BhumikaDevaliya01/Bot.git)"
   },
   "author": "\"Bhumika\"",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "simple-git": "^3.25.0"
+  }
 }
